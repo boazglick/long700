@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://vspcw.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://long700.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "vspcw", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "long700", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "vspcw", // This allows an alternative site description for meta data for pages.
+    "long700", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "vspcw", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "long700", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: true,
-    title: "vspcw",
+    title: "long700",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://vspcw.com/",
+        url: "https://long700.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://vspcw.com/contact",
+        url: "https://long700.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://vspcw.com/",
+        url: "https://long700.com/",
       },
       {
         label: "Sitemap",
-        url: "https://vspcw.com/sitemap.xml",
+        url: "https://long700.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://vspcw.com/contact",
+        url: "https://long700.com/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "vspcw",
+    title: "long700",
     description:
-      "vspcw",
+      "long700",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "vspcw",
+  siteTitle: "long700",
   siteDescription:
-    "vspcw",
+    "long700",
   language: "he",
   logoUrl: "",
   iconUrl: "",
